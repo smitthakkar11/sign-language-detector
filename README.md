@@ -1,6 +1,6 @@
 <div align="center">
 
-#GestureBridge : Real-Time Gesture Recognition for Sign Language
+# Real-Time Gesture Recognition for Sign Language
 
 **A vocabulary-agnostic pipeline that recognizes hand and body gestures from a live webcam feed using MediaPipe Holistic and an LSTM sequence classifier.**
 
